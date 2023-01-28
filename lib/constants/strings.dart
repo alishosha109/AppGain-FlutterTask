@@ -1,0 +1,10 @@
+final baseUrl = 'https://appgain-task.onrender.com/api/shortlinks/';
+// final baseUrl = 'http://192.168.1.57:4000/api/';
+//final baseUrl = 'http://localhost:38496/api/';
+// final baseUrl = 'http://localhost:4000/api/';
+var homePageScreen = '/';
+var linksScreen = '/links';
+var linkDetailsScreen = '/link';
+var addLinkScreen = '/addLink';
+var acctoken = "";
+var reftoken = "";
